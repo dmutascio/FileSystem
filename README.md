@@ -1,1 +1,1 @@
-My own implementation of a file system for image and text files. Made for the class CSE 332s Object-Oriented Software Development Laboratory
+My own implementation of a file system for image and text files. Made for the class CSE 332s Object-Oriented Software Development Laboratory. Lab 5 constains the culmination of all the work. However I included studios 16-21 to show the steps taken to make the file system.
